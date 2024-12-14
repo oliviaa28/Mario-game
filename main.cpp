@@ -116,6 +116,7 @@ void stergeMario()
 
 void urmatoareaIpostaza() 
 {    
+    
     if (directie=="dreapta")
         {
             if (abs(ipostaza)==10) ipostaza=1;
@@ -256,6 +257,7 @@ void saritura() {
             }
             vreasasara = 0; // Săritura s-a terminat
             jumpProgress = 0;
+            afiseazaScor(); 
         }
         afiseazaMario(); // Redesenăm Mario după orice modificare
     }
@@ -589,7 +591,7 @@ void exit()
 }
 //______________________________________________________________________________________________________
 int main()
-{   loading();
+{  // loading();
     meniu();
  
   
