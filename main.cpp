@@ -1,33 +1,3 @@
-/*  Ce goaluri ar trebui sa setam:   (sa presupunem ca dorim toti nota maxima si un proiect decent)
-
-1. Meniu(instrucțiuni cu ce taste se pot utiliza etc etc, info echipa, meniu pt nivele)       DONEEEE
-
-2. Nivele( cu mape diferite-> pur si simplu facem mai multe fisiere text cu mape)
-
-3.Viata mario 
-
-4.stelute acumulate mario   DONEEEE
-
-5. sa il facem pe mario sa poata sari ca sa nu fie obligatoriu sa foloseasca scarile    DONEEEE
-
-6. fall damage(sa poata sa cada de pe platformele alea)
-
-7. Inamici care se misca și îi scad din viata lui mario 
-
-8. Sunete 
-(acumulare stelute, 
-damage mario,
-mario când moare,
-sunet de fundal, 
-atunci cand accesam meniul,
-cand mutam sagetuta pe fiecare chestie din meniu sa fie ceva sunet scurt, 
-suntet pt loading page,
-sunet pt ecranul de la exit
-)
-
- -> finisari: Parte frontend 
-
-*/
 
 #include <fstream>
 #include <winbgim.h>
@@ -168,37 +138,6 @@ void stergeMario()
           readimagefile("images/scara.jpg",latime*jmario,latime*imario,latime*(jmario+1),latime*(imario+1));
 }
 
-/*void verificaColiziune()
-{
-    for(int i=0; i<nrinamici; i++)
-    {
-      if(v[i].inviata==1)
-     {
-       if (imario == v[i].xinamic && jmario == v[i].yinamic && vreasasara == 1) 
-            {   
-                v[i].inviata=0;
-                stergeInamic(imario,jmario);
-                afiseazaMario();
-                return;
-            }
-
-       else if (imario == v[i].xinamic && jmario == v[i].yinamic && vreasasara == 0) 
-            {
-                stergeMario();
-                imario = iInitial;
-                jmario = jInitial;
-                afiseazaMario();
-                afiseazaInamic();
-                nrvieti--;
-                afiseazaInimi();
-                delay(100);
-            }
-
-            
-        }
-      }
-    }
- */
 void verificaColiziune()
 {
     for(int i=0; i<nrinamici; i++)
