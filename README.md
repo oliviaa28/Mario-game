@@ -26,7 +26,6 @@ Players can choose to play as either **Mario** or **Luigi**, each embarking on t
 - 🖥 **Simple UI**: View scores and interact with intuitive menus.
 
 ---
----
 
 ## 🛠 Requirements
 
