@@ -5,7 +5,7 @@ This project is a simple Mario-themed game developed in **C++** using the **grap
 ---
 ## 🌟 Overview
 
-The game provides a thrilling and interactive experience, allowing players to control a character inspired by Mario or Luigi. Your primary goals are to:
+The game provides a thrilling and interactive experience, allowing players to control a character inspired by Mario and Luigi. Your primary goals are to:
 
 - 🏃 Navigate through tricky obstacles.
 - 💰 Collect items and rack up points.
