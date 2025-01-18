@@ -39,16 +39,15 @@ To run the game, you'll need:
 
 ## 🎮 Controls
 
+-☁️ **Arrow Keys**: Move left and right trought the levels or to choose you character.
+-🎈 **Up and Down Arrow Keys**: Navigate menu.
+-🎀 **Esc**: Exit any window.
+  
 Take control of Mario with the following key bindings:
-
-- **Arrow Keys**: Move left and right.
-- **Up and Down Arrow Keys**: Navigate menus.
 - **Mario Movement**:
   - **Up and Down Arrow Keys**: Climb ladders.
   - **Left and Right Arrow Keys**: Walk or run sideways.
-- **Tab**: Jump.
-- **Spacebar**: Jump.
-- **Esc**: Exit the game.
+  - **Spacebar**: Jump.
 
 ---
 
@@ -77,7 +76,8 @@ Take control of Mario with the following key bindings:
 
 ## 🙏 Acknowledgments
 
-This project was developed as part of the coursework for **Introduction to Programming**, UAIC Iasi, 2024. Special thanks to the teaching staff for their guidance and support.
+This project was developed as part of the coursework for **Introduction to Programming**, UAIC Iasi, 2024.
+Special thanks to the teaching staff for their guidance and support.
 
 ---
 
