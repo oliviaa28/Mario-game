@@ -39,8 +39,10 @@ To run the game, you'll need:
 
 ## 🎮 Controls
 
--☁️ **Arrow Keys**: Move left and right trought the levels or to choose you character.
+-☁️ **Arrow Keys**: Move left and right trought the levels or to choose you character.    
+
 -🎈 **Up and Down Arrow Keys**: Navigate menu.
+
 -🎀 **Esc**: Exit any window.
   
 Take control of Mario with the following key bindings:
