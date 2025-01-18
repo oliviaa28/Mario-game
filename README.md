@@ -82,6 +82,3 @@ This project was developed as part of the coursework for **Introduction to Progr
 Special thanks to the teaching staff for their guidance and support.
 
 ---
-
-
-Enjoy playing the Mario Game! 🎮 If you have any feedback or suggestions, feel free to contribute or contact me.
