@@ -37,34 +37,6 @@ To run the game, you'll need:
 
 ---
 
-## 🚀 Installation and Setup
-
-Follow these steps to set up and run the project:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/mario-game.git
-   cd mario-game
-   ```
-
-2. **Set Up graphics.h**:
-   - Ensure that you have the `graphics.h` library installed and configured in your C++ environment.
-   - Add the required libraries (e.g., BGI) to your compiler settings.
-
-3. **Compile the Code**:
-   Use your C++ compiler to compile the project. For example:
-   ```bash
-   g++ -o mario_game main.cpp -lgraph
-   ```
-
-4. **Run the Game**:
-   Execute the compiled binary:
-   ```bash
-   ./mario_game
-   ```
-
----
-
 ## 🎮 Controls
 
 Take control of Mario with the following key bindings:
