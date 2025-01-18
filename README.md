@@ -10,16 +10,22 @@ The game provides a thrilling and interactive experience, allowing players to co
 - 🏃 Navigate through tricky obstacles.
 - 💰 Collect items and rack up points.
 - 🛡 Avoid or defeat enemies to progress through levels.
+- 👸 Save your princess! Mario aims to rescue **Princess Peach**, while Luigi is on a mission to save **Princess Daisy**.
+
+Players can choose to play as either **Mario** or **Luigi**, each embarking on their own heroic journey.
 
 ---
 
 ## ✨ Features
 
-- 🎮 **Platform Mechanics**: Run, jump, and maneuver through exciting levels.
+- 🎮 **Character Selection**: Choose between Mario and Luigi.
+- 🏰 **Goal-Oriented Gameplay**: Complete levels to save your princess.
+- ⚠️ **Obstacles**: Overcome various challenges and traps.
 - 💎 **Collectibles**: Gather coins or treasures to boost your score.
 - 👾 **Enemies**: Outsmart and evade moving foes.
 - 🖥 **Simple UI**: View scores and interact with intuitive menus.
 
+---
 ---
 
 ## 🛠 Requirements
