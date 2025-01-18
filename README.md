@@ -21,7 +21,7 @@ Players can choose to play as either **Mario** or **Luigi**, each embarking on t
 - 🎮 **Character Selection**: Choose between Mario and Luigi.
 - 🏰 **Goal-Oriented Gameplay**: Complete levels to save your princess.
 - ⚠️ **Obstacles**: Overcome various challenges and traps.
-- 💎 **Collectibles**: Gather coins or treasures to boost your score.
+- 💎 **Collectibles**: Gather stars or treasures to boost your score.
 - 👾 **Enemies**: Outsmart and evade moving foes.
 - 🖥 **Simple UI**: View scores and interact with intuitive menus.
 
