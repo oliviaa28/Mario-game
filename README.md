@@ -91,6 +91,7 @@ Take control of Mario with the following key bindings:
 ## 📸 Screenshots
 
 ![WhatsApp Image 2025-01-18 at 10 34 56_028b34bf](https://github.com/user-attachments/assets/f3428a5c-e1d3-421b-ab20-fc8cba1dbea4)
+![WhatsApp Image 2025-01-18 at 10 53 23_e3eaae37](https://github.com/user-attachments/assets/45799d0f-0984-4842-a1c3-f28e182f13dc)
 
 
 ---
