@@ -108,4 +108,4 @@ This project was developed as part of the coursework for **Introduction to Progr
 ---
 
 
-Enjoy playing the Mario Game! 🎮 If you have any feedback or suggestions, feel free to contribute or contact us.
+Enjoy playing the Mario Game! 🎮 If you have any feedback or suggestions, feel free to contribute or contact me.
