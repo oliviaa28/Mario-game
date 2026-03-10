@@ -50,17 +50,6 @@ To run the game you need:
 
 ---
 
-## 📂 Project Structure
-## 📂 Project Structure
-
-
-main.cpp # game logic
-images/ # sprites and assets
-harti/ # level maps
-
-
----
-
 ## 📸 Screenshots
 
 <p align="center">
